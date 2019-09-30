@@ -8847,8 +8847,6 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <wire x1="-7.62" y1="18.796" x2="-7.62" y2="19.304" width="0.1524" layer="23"/>
 <text x="-3.2766" y="-0.635" size="1.27" layer="25" ratio="6" rot="SR0">&gt;Name</text>
 <wire x1="1.016" y1="21.082" x2="-1.016" y2="21.082" width="0.127" layer="21" curve="-180"/>
-<wire x1="0" y1="-1.27" x2="0" y2="1.27" width="0.127" layer="21"/>
-<wire x1="-1.27" y1="0" x2="1.27" y2="0" width="0.127" layer="21"/>
 </package>
 <package name="FDIP32W">
 <pad name="1" x="-15.24" y="38.1" drill="0.8128" diameter="1.524" shape="square"/>
